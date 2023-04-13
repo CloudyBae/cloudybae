@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm YB</h1>
 <h3 align="center">Passionate about automation and cloud technology</h3>
 
-- 💞️ I'm interested in automation, containzerization, and cloud modernization 
+- 💞️ I'm interested in automation, microservices, distributed systems, and cloud modernization 
 - 🌱 I'm addicted to learning and growing every day
 - 📫 How to reach me **baeyoo1993@gmail.com**
 
