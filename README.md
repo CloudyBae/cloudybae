@@ -3,7 +3,6 @@
 
 - 💞️ I'm interested in automation, microservices, distributed systems, and cloud modernization 
 - 🌱 I'm addicted to learning and growing every day
-- 📫 How to reach me **baeyoo1993@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
